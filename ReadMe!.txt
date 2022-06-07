@@ -1,0 +1,1 @@
+Simple clock which shows time, date and zone.
